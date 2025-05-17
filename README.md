@@ -1,5 +1,5 @@
 #🏓 Play-Pong
-A simple nd fun two-player Pong game created using Python's built-in `turtle` graphics module with options to reset, pause and escape.
+A simple and fun two-player Pong game created using Python's built-in `turtle` graphics module with options to reset, pause and escape.
 
 
 ## 🎮 Features
