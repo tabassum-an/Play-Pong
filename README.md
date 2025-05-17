@@ -21,8 +21,6 @@ The first player to reach 5 points wins. The game displays a "Player A/B Wins!" 
 - The game uses only the standard `turtle` and `sys` modules, so no additional libraries are required.
 
 
-## Acknowledgments: 
- - Adapted from “100 Days of Code: The Complete Python Pro Bootcamp” by Dr. Angela Yu on Udemy 
- - Source: https://www.udemy.com/course/100-days-of-code/?couponCode=CP130525#instructor-1
- - Modifications © 2025 tabassum_an, licensed under MIT
+## 🧾 License
+This project is licensed under the MIT License. Feel free to use or modify it as you wish.
 
